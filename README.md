@@ -4,4 +4,4 @@ I will be joining [Visa](https://www.visa.com) as a System Architect Intern and 
 
 I’m an active competitive programmer (Codeforces Specialist, Meta Hacker Cup Round 2 Qualifier) and have led initiatives to scale problem-solving across 100+ students as Vice-Chair of the ACM student chapter at my university. Outside of tech, I follow geopolitics, play the tabla and ukulele, and stay engaged in sports.
 
-Explore more about my work, writing, and learnings: [payasvaishnav.github.io](https://payasvaishnav.github.io)
+Explore more about my work, writing, and learnings: [payasvaishnav.github.io](https://payasvaishnav.github.io) :)

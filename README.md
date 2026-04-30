@@ -1,4 +1,4 @@
-Hey, I’m Payas Vaishnav, a software engineer working on large-scale systems, distributed computing, and data pipelines. I focus on building systems that are efficient, reliable, and secure, with an emphasis on system design and real-world performance. I’m currently pursuing Computer Science at Pandit Deendayal Energy University.
+Hey, I’m Payas Vaishnav, an engineer working on large-scale systems, distributed computing, and data pipelines. I focus on building systems that are efficient, reliable, and secure, with an emphasis on system design and real-world performance. I’m currently pursuing Computer Science at Pandit Deendayal Energy University.
 
 I will be joining [Visa](https://www.visa.com) as a System Architect Intern and have previously worked at [Jio Platforms](https://www.jio.com/) as a Software Development Engineer Intern. I also build independent systems and explore problems in data processing, system design, and quantitative analysis.
 
